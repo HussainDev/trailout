@@ -1,0 +1,22 @@
+.mates{
+    columns: 2;
+    stroke-width: 2px;
+}
+.learned{
+    font: 100;
+    /*using the linking one 
+    which is third option source control (ctrl shift g)*/
+}
+.imag{
+    height: 100px;
+    width: 100px;
+}
+.fe{
+    color: red;
+    font-size: 50px;
+}
+.imo{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
