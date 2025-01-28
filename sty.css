@@ -2,3 +2,8 @@
     columns: 2;
     stroke-width: 2px;
 }
+.learned{
+    font: 100;
+    /*using the linking one 
+    which is third option source control (ctrl shift g)*/
+}
